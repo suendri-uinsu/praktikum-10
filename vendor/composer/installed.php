@@ -1,12 +1,12 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
-        'name' => 'suendri-uinsu/praktikum-10',
+        'reference' => 'ae86896f58440a9e27671764c10e163b89b0d51c',
+        'name' => 'suendri-uinsu/oop-praktikum-9',
         'dev' => true,
     ),
     'versions' => array(
@@ -28,13 +28,13 @@
             'reference' => 'fe5ea303b0887d5caefd3d431c3e61ad47037001',
             'dev_requirement' => false,
         ),
-        'suendri-uinsu/praktikum-10' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+        'suendri-uinsu/oop-praktikum-9' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => 'ae86896f58440a9e27671764c10e163b89b0d51c',
             'dev_requirement' => false,
         ),
     ),
